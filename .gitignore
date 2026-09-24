@@ -2,7 +2,6 @@
 /backend/data/
 /backend/out/
 /backend/docs/
-/backend/src/
 *.md
 
 # Environment variables and local secrets
